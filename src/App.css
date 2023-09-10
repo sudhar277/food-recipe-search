@@ -1,0 +1,23 @@
+body {
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  height: 300vh; /* Set the height to cover the entire viewport */
+  background-repeat: no-repeat;
+  background: linear-gradient(to top, #7E6FD8,#5640D9);
+  /* Other styles for your content go here */
+}
+h1{
+  font: 5em oblique;
+
+}
+.tex{
+  width: 1000px;
+  height: 30px;
+}
+.card {
+  background-color: #FFFFFF; /* Gray color */
+}
+/* In your App.css or a separate CSS file */
+.search-bar {
+  margin-top: -70px; /* Adjust the margin-top value to control the gap */
+}
